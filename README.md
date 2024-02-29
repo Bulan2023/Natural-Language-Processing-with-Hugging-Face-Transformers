@@ -1,12 +1,14 @@
-#Project Course Natural Language Processing with Hugging Face Trasnformers
+# Project Course Natural Language Processing with Hugging Face Trasnformers
 
-##Author : @CognitiveClass.AI
+## Author : @CognitiveClass.AI
 
-##Mentee assigment from IBM Advance AI @ Infinite Learning Course completion of Natural Language Processing with Hugging Face Transformers
+## Mentee assigment from IBM Advance AI @ Infinite Learning Course completion of Natural Language Processing with Hugging Face Transformers
 
-###Name : Bulan Purnama Utami
+## Mentee Info
 
-###Program : IBM Advance AI
+### Name : Bulan Purnama Utami
 
-##Tech Stack:
--Phyton
+### Program : IBM Advance AI
+
+## Tech Stack:
+#### -Phyton
